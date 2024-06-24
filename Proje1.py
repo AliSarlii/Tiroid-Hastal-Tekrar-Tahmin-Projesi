@@ -9,7 +9,6 @@ from sklearn.metrics import accuracy_score
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 from matplotlib.figure import Figure
 
-# Arayüzü yapmak için ChatGPT'den yardım aldık
 
 def submit_form():
     #inputlardan çektiğimiz verileri testveri adlı dizide topluyoruz
