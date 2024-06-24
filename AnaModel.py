@@ -14,7 +14,7 @@ from sklearn.metrics import accuracy_score
 # Proje2.py dosyasında Proje1.py dosyasındaki kodların aynısı yer alıyor farklı olarak Hx Radioterapy ve M verileri 
 #sonuç üzerine fazla etkisi olmadığı için o verilerin çıkarılmış ve yaş verisinin StandartScaler kullanarak scale edilmiş hali var
 
-# Yapan :  Mücahit SARIALTUN , Enes Salih ASLAN , Ali ŞARLI 
+# Yapan : Ali ŞARLI 
 
 #csv dosyasından verileri okuma
 data = pd.read_csv("Thyroid_Diff.csv")
