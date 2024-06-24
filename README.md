@@ -1,4 +1,4 @@
-##Tiroid Hastalığı Tekrarı Tahmin Projesi
+## Tiroid Hastalığı Tekrarı Tahmin Projesi
 
 Bu proje Support Vector Machine algoritması kullanılarak yapılmış bir makine öğrenmesi uygulamasıdır
 
